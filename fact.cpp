@@ -11,3 +11,4 @@ factorial = factorial*i;
 }
 cout<<"the factorial of a number is "<< factorial<<endl;
 }
+//make recursive function
